@@ -1,0 +1,12 @@
+image,component,x,y,width,height
+
+pcb_01.png,IC,593,402,173,231
+pcb_01.png,resistor,310,478,71,23
+pcb_01.png,capacitor,536,338,56,22
+pcb_01.png,diode,353,223,120,42
+
+
+pcb_04.png,IC,1347,548,480,444
+pcb_04.png,resistor,605,500,137,49
+pcb_04.png,capacitor,1313,331,263,99
+pcb_04.png,diode,1042,307,74,160
