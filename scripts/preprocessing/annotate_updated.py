@@ -8,7 +8,7 @@ import csv
 # -----------------------------
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-image_path = PROJECT_ROOT / "data" / "originals" / "pcb_04.png"
+image_path = PROJECT_ROOT / "data" / "originals" / "pcb_09.png"
 annotation_folder = PROJECT_ROOT / "data" / "annotations"
 csv_path = annotation_folder / "annotations.csv"
 

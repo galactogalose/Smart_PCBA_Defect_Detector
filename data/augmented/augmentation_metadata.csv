@@ -34,3 +34,7 @@ pcb_04.png,pcb_04_diode_flip_horizontal.png,diode,flip,horizontal,1042,307,1042,
 pcb_04.png,pcb_04_diode_move_10px.png,diode,move,+10 px x-direction,1042,307,1052,307,74,160
 pcb_04.png,pcb_04_diode_move_25px.png,diode,move,+25 px x-direction,1042,307,1067,307,74,160
 pcb_04.png,pcb_04_diode_rotate_15.png,diode,rotate,+15 degrees,1042,307,1042,307,74,160
+pcb_09.png,pcb_09_ic_01_flip_horizontal.png,ic,flip,horizontal,1214,320,1214,320,246,216
+pcb_09.png,pcb_09_resistor_01_flip_horizontal.png,resistor,flip,horizontal,1644,998,1644,998,136,56
+pcb_09.png,pcb_09_capacitor_01_flip_horizontal.png,capacitor,flip,horizontal,1020,482,1020,482,136,160
+pcb_09.png,pcb_09_diode_01_flip_horizontal.png,diode,flip,horizontal,995,392,995,392,50,23
