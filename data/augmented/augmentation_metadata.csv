@@ -34,7 +34,23 @@ pcb_04.png,pcb_04_diode_flip_horizontal.png,diode,flip,horizontal,1042,307,1042,
 pcb_04.png,pcb_04_diode_move_10px.png,diode,move,+10 px x-direction,1042,307,1052,307,74,160
 pcb_04.png,pcb_04_diode_move_25px.png,diode,move,+25 px x-direction,1042,307,1067,307,74,160
 pcb_04.png,pcb_04_diode_rotate_15.png,diode,rotate,+15 degrees,1042,307,1042,307,74,160
+pcb_09.png,pcb_09_ic_01_rotate_05.png,ic,rotate,+5 degrees,1214,320,1205,310,264,237
 pcb_09.png,pcb_09_ic_01_flip_horizontal.png,ic,flip,horizontal,1214,320,1214,320,246,216
+pcb_09.png,pcb_09_ic_01_move_10px.png,ic,move,+10 px x-direction,1214,320,1224,320,246,216
+pcb_09.png,pcb_09_ic_01_move_25px.png,ic,move,+25 px x-direction,1214,320,1239,320,246,216
+pcb_09.png,pcb_09_ic_01_rotate_15.png,ic,rotate,+15 degrees,1214,320,1190,292,294,273
+pcb_09.png,pcb_09_resistor_01_rotate_05.png,resistor,rotate,+5 degrees,1644,998,1642,992,141,68
 pcb_09.png,pcb_09_resistor_01_flip_horizontal.png,resistor,flip,horizontal,1644,998,1644,998,136,56
+pcb_09.png,pcb_09_resistor_01_move_10px.png,resistor,move,+10 px x-direction,1644,998,1654,998,136,56
+pcb_09.png,pcb_09_resistor_01_move_25px.png,resistor,move,+25 px x-direction,1644,998,1669,998,136,56
+pcb_09.png,pcb_09_resistor_01_rotate_15.png,resistor,rotate,+15 degrees,1644,998,1639,981,146,90
+pcb_09.png,pcb_09_capacitor_01_rotate_05.png,capacitor,rotate,+5 degrees,1020,482,1013,476,150,172
 pcb_09.png,pcb_09_capacitor_01_flip_horizontal.png,capacitor,flip,horizontal,1020,482,1020,482,136,160
+pcb_09.png,pcb_09_capacitor_01_move_10px.png,capacitor,move,+10 px x-direction,1020,482,1030,482,136,160
+pcb_09.png,pcb_09_capacitor_01_move_25px.png,capacitor,move,+25 px x-direction,1020,482,1045,482,136,160
+pcb_09.png,pcb_09_capacitor_01_rotate_15.png,capacitor,rotate,+15 degrees,1020,482,1002,467,173,190
+pcb_09.png,pcb_09_diode_01_rotate_05.png,diode,rotate,+5 degrees,995,392,994,390,52,28
 pcb_09.png,pcb_09_diode_01_flip_horizontal.png,diode,flip,horizontal,995,392,995,392,50,23
+pcb_09.png,pcb_09_diode_01_move_10px.png,diode,move,+10 px x-direction,995,392,1005,392,50,23
+pcb_09.png,pcb_09_diode_01_move_25px.png,diode,move,+25 px x-direction,995,392,1020,392,50,23
+pcb_09.png,pcb_09_diode_01_rotate_15.png,diode,rotate,+15 degrees,995,392,993,386,55,36
